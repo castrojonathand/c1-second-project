@@ -10,9 +10,7 @@ import { routes } from './utils/routes'
 import Detail from './Pages/Detail'
 import Layout from './Layout/Layout'
 
-
 function App() {
-
   return (
     <div className='app'>
       <Routes>
